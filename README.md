@@ -1,5 +1,5 @@
 Felipe Soares Coelho
-Curiiba PR
+Curitiba PR
 23
 
 <!---
