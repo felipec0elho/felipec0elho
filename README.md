@@ -1,6 +1,6 @@
-Felipe Soares Coelho
-Curitiba PR
-23
+Felipe Soares Coelho<br>
+Curitiba PR <br>
+1999
 
 <!---
 felipec0elho/felipec0elho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
